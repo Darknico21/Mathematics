@@ -1,0 +1,5 @@
+2023-05-25 23:58:30 Document switched to: c:\Users\sileshe.nicodemus\Programing stuff\Mathematics\Program.cs
+00:01:09 015:022 > -2
+00:01:25 107:036 > ?
+2023-05-26 00:00:52 Document switched to: tasks
+2023-05-26 00:00:53 Document switched to: c:\Users\sileshe.nicodemus\Programing stuff\Mathematics\Program.cs
